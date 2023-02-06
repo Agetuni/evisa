@@ -4,7 +4,7 @@
 
 **[evisa API]**  The Ethiopian government's e-visa system allows travelers to apply for and receive authorization to enter Ethiopia via the internet. Foreigners can apply for and receive visas entirely online. This eliminates the need to visit an embassy or consulate in person, saving travelers time and money. Additionally, e-visa help to process visas more quickly than traditional visas. The system offers high level of security, as the process of applying for one involves submitting personal information and passport details online. This information is then verified by the issuing authority to ensure that the applicant is who they claim to be.
 
-<a href="https://github.com/Agetuni/PatientInformationFrontend">Click here to see the Front-END project</a>
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
